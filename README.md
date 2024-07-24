@@ -1,4 +1,4 @@
-# Sexism Project - Manuela Cleves
+# Detecting and Predicting Sexist Language in Tweets
 
 ## Project Overview
 
