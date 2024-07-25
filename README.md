@@ -4,8 +4,9 @@
 
 Our project focuses on analyzing sexist bias in tweets to:
 
-1. Predict sexism.
+1. Detect sexist language.
 2. Understand relationships between words commonly found together in sexist tweets.
+3. Predict sexist language.
 
 Datasets were prepared by Francisco Rodriguez-Sanchez, Jorge Carrillo-de-Albornoz, Laura Plaza, Julio Gonzalo, Paolo Rosso, Trinidad Donoso, and Miriam Comet for their EXIST 2021 SEXism Identification in Social neTworks Task Guidelines.
 
